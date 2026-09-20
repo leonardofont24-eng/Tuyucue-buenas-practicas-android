@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "TuyucueBuenasPracticas"
-include(":app")k
+include(":app")
